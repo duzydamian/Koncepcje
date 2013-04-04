@@ -1,0 +1,2 @@
+Stworzenie po pierwsze urządzenia:
+Dowolny komputer -> RS232(przez USB) -> Atmega -> RF868 -> reszta świata
