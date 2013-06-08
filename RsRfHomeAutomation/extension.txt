@@ -1,0 +1,4 @@
+1. Zasilanie sieciowe i bateryjne całości.
+2. Sterowanie przez internet oraz sms.
+3. Automatyczne informowanie o zaniku zasilania.
+4. Automatyczne przełączenie sieci z wifi/ethernet na komórkowe w razie potrzeby.
