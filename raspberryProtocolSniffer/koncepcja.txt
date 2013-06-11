@@ -1,0 +1,6 @@
+Utworzenie uniwersalnego sniffera protokolow.
+
+Funkcjonalnosc:
+1. Rozpoznanie protokolu (sposrod kilku znanych typow)
+2. Utworzenie i zwizualizowanie schematu wymian sieciowych
+3. Okreslenie parametrow sieci

@@ -1,0 +1,1 @@
+Utworzenie plytki rozszerzajacej raspberry pi o uklad FPGA.

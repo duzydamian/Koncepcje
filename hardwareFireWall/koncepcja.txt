@@ -1,0 +1,10 @@
+Utworzenie sprzetowego firewall'a.
+
+Zalozenia:
+1. Uzycie wydajnego procesora ARM zamiast ukladu FPGA
+
+Funkcjonalnosc:
+1. Blokowanie pakietow konkretnego nadawcy
+2. Blokowanie okreslonego typu pakietow
+3. Przezroczystosc dla sieci
+4. Generowanie mozliwie najmniejszego opoznienia

@@ -1,0 +1,10 @@
+Projekt zaklada utworzenie lekkiego, przenosnego statywu, zgodnego z kilkoma modelami aparatow dostepnych na rynku, ktory umozliwi zdalne sterowanie polozeniem aparatu.
+
+Zalozenia:
+1. sterowanie w 3 osiach : gora - dol, lewo - prawo, zdjecie pion - poziom,
+2. sterowanie ma sie odbywac z poziomu tabletu z systemem android.
+
+Rozszerzone zalozenia:
+1. system ma umozliwiac podglad na zywo ekspozycji,
+2. system ma umozliwiac bezprzewodowy backup zdjec z aparatu na tablet,
+3. system ma umozliwiac sterowanie parametrami ekspozycji.
