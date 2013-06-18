@@ -8,3 +8,5 @@ Rozszerzone zalozenia:
 1. system ma umozliwiac podglad na zywo ekspozycji,
 2. system ma umozliwiac bezprzewodowy backup zdjec z aparatu na tablet,
 3. system ma umozliwiac sterowanie parametrami ekspozycji.
+4. Dostęp zdalnie przez internet
+5. Ruchoma platforma
