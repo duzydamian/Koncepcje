@@ -1,0 +1,12 @@
+   int32 11
+   string "restart-label"
+   variant       string "Uruchom ponownie..."
+signal sender=:1.58 -> dest=(null destination) serial=414 path=/org/ayatana/indicator/session/service; interface=org.ayatana.indicator.session.service; member=IconUpdated
+   string "system-shutdown-panel"
+method call sender=:1.15 -> dest=org.freedesktop.Notifications serial=39 path=/org/freedesktop/Notifications; interface=org.freedesktop.Notifications; member=Notify
+   string "NetworkManager"
+   uint32 24
+   string "notification-network-wireless-disconnected"
+   string "brunow"
+   string "Rozłączono - tryb offline"
+   array [
