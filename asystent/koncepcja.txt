@@ -1,3 +1,4 @@
 Osobisty asystent zarządzany przez www, komórkę.
 Przypomnienia sms
 
+Kalendarz i inne cuda.
