@@ -1,0 +1,15 @@
+Wykorzystując naszą wiedzę zdobytą w projekcie i to co już napisaliśmy można by napisać narzędzie.
+
+1. Uruchamiasz program (moim zdaniem konsolowy wystarczy)
+2. Program łączy się z portem i czyta dane jak leci (wszystkie znaki bez rozróżniania) aż do np. naciśnięcia klawisza lub przez określony czas
+3. Odebrane dane ładuje do dwóch plików: jako hex i jako dziesiętne
+4. Potem rusza część analityczna
+5. Podział na ramki
+6. Analiza poprawności ramek tzn. crc w postaci ramka, ok/error, crc obliczone, crc oczekiwane
+7. Analiza ramek kolizji tych dziwnych command unknown
+
+Inne pomysły mile widziane.
+
+Ewentualnie można do zastosować do innych analiz.
+
+Program by się przydał również w analizie medium transmisyjnych.
