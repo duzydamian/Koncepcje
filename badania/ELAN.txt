@@ -1,0 +1,7 @@
+Pomysły na badania związane z pracą przy ELANie:
+
+1. CSMA/CD wpływ ilości urządzeń na wydajność/skuteczność.
+Temat: Wpływ ilości urządzeń na wydajność/skuteczność protokołu CSMA/CD na przykładzie ELANa.
+
+2. Medium RS485, Skrętka zwykła ekranowana itd.
+Temat: Odporność medium transmisyjnych na zakłócenia dla protokołów opartych o RS-485.

@@ -1,0 +1,5 @@
+Wykorzystując naszą wiedzę zdobytą w projekcie i to co już napisaliśmy można by napisać narzędzie.
+
+Do dalszych prac i implementacji kolejnych fragmentów ELAN-a prawdopodobnie będzie nam już potrzebny bardziej zaawansowany symulator z możliwości wymuszania różnych stanów itd.
+
+Generalnie widzę to jako duże okienko w checkbox'ami, lista, tabelami itd.
