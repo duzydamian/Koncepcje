@@ -1,0 +1,64 @@
+Naprościej będzie jak wstawię fragment rozmowy:
+
+Grzegorz:  fajna obudowa
+mimo wszystko statyw sie wydaje bardziej atrakcyjny
+nie chcialbym zmieniac tej koncepcji
+chyba, ze masz konkretne zastosowanie dla takiego malego ukladu
+kiedys mialem jeszcze taki sen...
+nie smiej sie
+:D
+propo mniejszych kamer
+ze lecialem na paralotni
+a obok mnie lecial model zdalnie sterowany
+z funckja autopilota
+utrzymywal sie zawsze w takiej samej odleglosci
+i filmowal lot
+serio cos takiego mi sie snilo
+:)
+no i teraz wyobrazam sobie taki model z taka nasza kamerka
+ktory jest w stanie caly czas utrzymywac lot i sterowac kamerka w taki sposob zeby utrzymac obserwowany obiekt w kadrze
+stary, sprzedalbys to w setkach egzemplarzy
+ Wysłano o 10:57 (czwartek)
+ Grzegorz:  teraz czekam az mnie zjebiesz :P
+ Wysłano o 10:59 (czwartek)
+ ja:  nie no pomysł boski
+ostatnio nawet się motolotniami interesowałem xD
+ Grzegorz:  :D
+ ja:  tylko w górze wieje jak cholera
+ Grzegorz:  wiem
+ ja:  i wątpię żeby mały obiekt był w stanie utrzymywać tor lotu
+ Grzegorz:  bylby
+tylko trzeba by wszystko odpowiednio stabilizowac
+i lot i sama kamerke
+zyroskopami itp
+ ja:  mówisz jakiś nagły podmuch nie rozwaliłby go w cholerę ?
+ Grzegorz:  nie, watpie
+pamietaj, ze te modele akrobatyczne lataja na olbrzymich przeciazeniach
+ ja:  i nie wiem na ile da się zbudować tai szybki model
+żeby nadążył
+ Grzegorz:  za motolotnia?
+z palcem w dupie
+ ja:  ale to raczej spalinowy
+ Grzegorz:  http://www.rc.v10.pl/F27C,Stryker,model,RC,latajacy,z,predkoscia,ponad,120kmh,58752.html
+problem jest taki, ze zaklocasz aerodynamike takiego modelu
+kamerka musi byc przemyslana
+nikt na lotni nie lata 120 km/h
+chyba, ze wykonuje skret
+i gwaltownie przyspiesza
+ale wtedy model moze inteligentnie wykonac zwrot tak zeby nie probowac nadazyc, a tylko utrzymac obiekt w kadrze
+ ja:  yyyyyyy
+aha xD
+pado 120...
+ Grzegorz:  "Prędkość jaką rozwija motolotnia zależy od typu silnika, wiatru i ciężaru unoszonego w powietrze - na ogół waha się od 60 do 140 km/h."
+wiec spokojnie da sie ogarnac
+:)
+ ja:  dobrze xD
+ Grzegorz:  natomiast interesujacym aspektem jest przy jakiej wzglednej predkosci zgubisz zasieg sieci
+;
+;)
+bo komunikacja miedzy obiektem a modelem jest niezbedna
+dysku na zamolot nie zamontujesz :D
+samolot*
+a nie wiem czy duza karta wystarczy
+niemniej koncepcja mi sie podoba
+ ja:  dobrze czyli potrzebuję 100-150 zeta na kamerę do raspa
