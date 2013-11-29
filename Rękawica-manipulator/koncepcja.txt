@@ -1,0 +1,2 @@
+Bezprzewodowa
+Rękawica umożliwiająca sterowaine za pomocą gestów.
